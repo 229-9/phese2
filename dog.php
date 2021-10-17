@@ -14,8 +14,8 @@
         </body>
         <link rel="stylesheet" href="mystyle.css">
 <body>
-    <p2><a href="silent.html" class="btn">無言が続く場合</a><p2>
-    <p3><a href="feelbad.html" class="btn">相手の話を遮る場合</a><p3>
+    <p2><a href="silent.php" class="btn">無言が続く場合</a><p2>
+    <p3><a href="feelbad.php" class="btn">相手の話を遮る場合</a><p3>
 </body>
 </html>
 
